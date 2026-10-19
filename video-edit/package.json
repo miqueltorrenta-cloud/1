@@ -1,0 +1,22 @@
+{
+  "name": "eze-video-edit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render EzeEdit out/eze_final.mp4"
+  },
+  "dependencies": {
+    "@fontsource/montserrat": "^5.3.0",
+    "@remotion/captions": "^4.0.536",
+    "@remotion/cli": "^4.0.536",
+    "@remotion/media-utils": "^4.0.536",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.536"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
